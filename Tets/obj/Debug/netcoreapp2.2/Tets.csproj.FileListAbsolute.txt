@@ -1,0 +1,12 @@
+C:\Users\Usuário\source\repos\Tets\Tets\bin\Debug\netcoreapp2.2\Tets.deps.json
+C:\Users\Usuário\source\repos\Tets\Tets\bin\Debug\netcoreapp2.2\Tets.runtimeconfig.json
+C:\Users\Usuário\source\repos\Tets\Tets\bin\Debug\netcoreapp2.2\Tets.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\Tets\Tets\bin\Debug\netcoreapp2.2\Tets.dll
+C:\Users\Usuário\source\repos\Tets\Tets\bin\Debug\netcoreapp2.2\Tets.pdb
+C:\Users\Usuário\source\repos\Tets\Tets\obj\Debug\netcoreapp2.2\Tets.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\Tets\Tets\obj\Debug\netcoreapp2.2\Tets.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Tets\Tets\obj\Debug\netcoreapp2.2\Tets.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Tets\Tets\obj\Debug\netcoreapp2.2\Tets.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Tets\Tets\obj\Debug\netcoreapp2.2\Tets.dll
+C:\Users\Usuário\source\repos\Tets\Tets\obj\Debug\netcoreapp2.2\Tets.pdb
+C:\Users\Usuário\source\repos\Tets\Tets\obj\Debug\netcoreapp2.2\Tets.genruntimeconfig.cache
